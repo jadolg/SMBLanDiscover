@@ -1,4 +1,4 @@
 SMBLanDiscover
 ==============
 
-Discover SAMBA clients on your Local Area Network
+Discover SAMBA servers on your Local Area Network
